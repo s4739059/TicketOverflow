@@ -1,0 +1,10 @@
+{
+  "id": "12345678-1234-1234-1234-123456789012",
+  "name": "Phantom of the Opera",
+  "date": "2023-06-07",
+  "venue": "Sydney Opera House",
+  "seats": {
+    "max": 5738,
+    "purchased": 2340
+  }
+}
